@@ -1,0 +1,23 @@
+* {margin: 0;
+   padding:0;
+  }
+.header { width:auto;
+          height:50px;
+          background-color:Tomato;
+          padding: 5px;
+}
+
+h1{color: whitesmoke;
+   font-size: 45px;
+}
+.section {widows:auto;
+          height: 500px;
+          margin: 20px;
+}
+/* Increase the font size of the heading */
+.header h1 {
+  font-size: 40px;
+}
+.container {
+  position: relative;
+}
